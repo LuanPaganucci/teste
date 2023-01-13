@@ -1,0 +1,8 @@
+Internet
+Unix
+Bash
+Print
+Cat
+chmod
+touch
+ls -l

@@ -1,0 +1,34 @@
+ls mostrar arquivos e diretórios da pasta
+ls -l ou ll mostra permissões dos arquivos e diretórios
+mkdir cria uma nova pasta/diretório
+cd change directory
+pwd - mostra caminho da pasta aonde está
+cp - copy
+mv - move
+rm - emove
+rmdir - remover diretório
+clear - limpar terminal
+cat - mostra o que tem no arquivo
+cat >> - adiciona no final do arquivo
+less - mostra conteudo do arquivo em página
+less - espaço passa de página; "/" abre pra pesquisa dentro do arquivo
+head - primeiras palavras
+tail - ultimas palavras
+grep - pesquisar dentro do arquivo
+wc - word count; wc -w conta palavras; -l linhas; -c caracteres
+> - 
+>> - 
+| - permite somar ações ou funções
+sort - organizar por ordem alfabética; sort < arquivo.txt > arquivo2.txt passa pra novo arquivo em ordem alf
+who - detalhes de usuario online
+man - manual
+whatis - 
+apropos - procurar nas páginas do manual por nomes e descrições
+* - coringa na hora de pesquisar arquivos ou dentro dos arquivos; *.txt" "arquivo*"
+? - 
+chmod - permite mudar permissões dos arquivos e diretórios; drwx - diretorio, leitura, escrever, executar. "a" para todos, + ou -
+ps - o que está sendo executado
+bg - background ou fg para foreground; ctrl z suspende; ctrl c encerra
+kill - encerra processo de forma forçada
+find - busca
+history - histórico de comandos do terminal por sessão

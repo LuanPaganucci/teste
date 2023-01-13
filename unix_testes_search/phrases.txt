@@ -1,0 +1,13 @@
+Vamos relembrar dos comandos usados nesta aula?
+touch cria arquivo
+mkdir cria diretório
+cat para mostrar conteúdos
+less pra mostrar conteúdo por página
+espaço passa as páginas
+grep busca pelo nome
+grep -i busca sem case sensitive
+"/" busca por nome dentro do arquivo
+cat >> adiciona frases no final do arquivo
+grep -iv 'palavra desejada' pesquisa por palavras não correspondentes
+wc = word count conta palavras, linhas e caracteres
+wc -w para palavras, wc -l para linhas e wc -c para caracteres

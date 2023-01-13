@@ -1,0 +1,10 @@
+Ctrl + C.
+Alternativa incorreta. Para suspender um processo no terminal, utilizamos o atalho Ctrl + Z. Ctrl + C pode ser utilizado para eliminar o trabalho em execução.
+Ctrl + E.
+Alternativa incorreta. Para suspender um processo no terminal, utilizamos o atalho Ctrl + Z. Ctrl + E pode ser utilizado para mover o cursor para o final de uma linha.
+Ctrl + X.
+Alternativa incorreta. Para suspender um processo no terminal, utilizamos o atalho Ctrl + Z.
+Ctrl + Z.
+Alternativa correta. Podemos suspender um processo sendo executado no terminal utilizando o atalho Ctrl + Z.
+Ctrl + S.
+Alternativa incorreta. Para suspender um processo no terminal, utilizamos o atalho Ctrl + Z.
