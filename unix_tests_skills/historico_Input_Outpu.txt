@@ -1,0 +1,405 @@
+    1  sudo apt update
+    2  sudo dpkg -i code_1.74.2-1671533413_amd64.deb
+    3  exit
+    4  curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.3/install.sh | bash
+    5  wget -qO- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.3/install.sh | bash
+    6  HOME/.nvm
+    7  curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.3/install.sh | bash
+    8  snap info curl
+    9  clear
+   10  wget -qO- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.3/install.sh | bash
+   11  source ~/.bashrc
+   12  nvm
+   13  nvm install 16
+   14  glxinfo | grep "OpenGL"
+   15  sudo apt install v4l2loopback-dkms
+   16  cd /
+   17  cd
+   18  cd~
+   19  cd ~
+   20  cd /
+   21  ls
+   22  ls -a
+   23  ls
+   24  cd usr
+   25  ls
+   26  cd /
+   27  ls
+   28  users
+   29  ls
+   30  usr
+   31  cd usr
+   32  ls
+   33  cs /
+   34  cd /
+   35  ls
+   36  ls -a
+   37  pwd
+   38  home
+   39  cd homr
+   40  cd home
+   41  ls
+   42  cd luan
+   43  pwd
+   44  ls
+   45  cd downloads
+   46  Downloads
+   47  cd Downloads
+   48  ls
+   49  cd /
+   50  cd home
+   51  ls
+   52  cd luan
+   53  lst
+   54  ls
+   55  cd Documentos
+   56  mkdir Aulas
+   57  ls
+   58  cd Aulas
+   59  cd ..
+   60  cd Aulas
+   61  touch primeiro_arquivo.txt
+   62  ls
+   63  html
+   64  css
+   65  javascript
+   66  node
+   67  cd /
+   68  ls
+   69  cd home
+   70  cd luan
+   71  ls
+   72  cd Documentos
+   73  cd Aulas
+   74  ls
+   75  cp primeiro_arquivo.txt arquivo2.txt
+   76  ls
+   77  cat primeiro_arquivo.txt 
+   78  cat arquivo2.txt 
+   79  clear
+   80  ls
+   81  mv arquivo2.txt /home/luan/downloads
+   82  ls
+   83  cd ..
+   84  ls
+   85  cd downloads
+   86  cd Downloads
+   87  ls
+   88  cd ..
+   89  ls
+   90  rm downloads 
+   91  ls
+   92  clear
+   93  mkdir apagar
+   94  ls
+   95  rmdir apagar/
+   96  ls
+   97  clear
+   98  cd /
+   99  ls
+  100  cd home
+  101  cd luan
+  102  ls
+  103  cd Documentos
+  104  ls
+  105  cat Aulas
+  106  cd Aulas
+  107  cat primeiro_arquivo.txt 
+  108  clear
+  109  less primeiro_arquivo.txt 
+  110  head -5 primeiro_arquivo.txt 
+  111  tail -5 primeiro_arquivo.txt 
+  112  clear
+  113  less primeiro_arquivo.txt 
+  114  grep python
+  115  cd home
+  116  cd /
+  117  cd home
+  118  cd luan
+  119  cd Documentos
+  120  cd Aulas
+  121  cat primeiro_arquivo.txt 
+  122  grep -in python
+  123  cd /
+  124  cd home
+  125  cd luan
+  126  cd Documentos
+  127  cd Aulas
+  128  wc -w primeiro_arquivo.txt 
+  129  wc -l primeiro_arquivo.txt 
+  130  wc -c primeiro_arquivo.txt 
+  131  clear
+  132  cd ..
+  133  ls
+  134  mkdir Aulas 2
+  135  mkdir Aulas2
+  136  ls
+  137  ls *
+  138  ls ?arqu
+  139  ls ?ri
+  140  ls ?ulas
+  141  ls
+  142  man ls
+  143  whatis cd
+  144  whatis cp
+  145  apropos copy
+  146  ls
+  147  cd Aulas
+  148  ls
+  149  cat primeiro_arquivo.txt 
+  150  cat primeiro_arquivo.txt
+  151  cat >> frutas.txt
+  152  maçã
+  153  cat >> primeiro_arquivo.txt 
+  154  cd /
+  155  cd home
+  156  cd luan
+  157  cd Documentos
+  158  cd Aulas
+  159  mkdir Trybe_exercicios
+  160  ls
+  161  cd Trybe_exercicios/
+  162  mkdir fundamentos
+  163  mkdir front-end
+  164  mkdir back-end
+  165  mkdir ciencia-da-comp
+  166  ls
+  167  cd fundamentos/
+  168  cd /
+  169  ls
+  170  cd home
+  171  cd luan
+  172  ls
+  173  cd Documentos
+  174  cd Aulas
+  175  ls
+  176  cat frutas.txt 
+  177  cat primeiro_arquivo.txt 
+  178  head -2 primeiro_arquivo.txt 
+  179  echo luan
+  180  who
+  181  <
+  182  whatis car
+  183  whatis cat
+  184  man
+  185  man cat
+  186  man cat >>
+  187  Man >>
+  188  sudo apt install discord
+  189  snap install discord
+  190  cd /
+  191  cd home
+  192  cd luan
+  193  cd Documentos
+  194  cd Aulas
+  195  ls
+  196  cd Trybe_exercicios/
+  197  ls
+  198  cd fundamentos/
+  199  touch fundamentos.txt
+  200  ls
+  201  clear
+  202  mkdir Manipulacao_Busca
+  203  cd Manipulacao_Busca/
+  204  mkdir unix_testes_search
+  205  cd unix_testes_search/
+  206  curl -o countries.txt "https://gist.githubusercontent.com/kalinchernev/486393efcca01623b18d/raw/daa24c9fea66afb7d68f8d69f0c4b8eeb9406e83/countries"
+  207  whatis curl
+  208  man curl
+  209  snap install curl
+  210  curl -o countries.txt "https://gist.githubusercontent.com/kalinchernev/486393efcca01623b18d/raw/daa24c9fea66afb7d68f8d69f0c4b8eeb9406e83/countries"
+  211  cat countries.txt 
+  212  less countries.txt 
+  213  grep Brazil
+  214  grep Brazil countries.txt 
+  215  grep -i brazil countries.txt 
+  216  touch phrases.txt
+  217  ls
+  218  cat >> phrases.txt 
+  219  cat phrases.txt 
+  220  grep -iv 'fox' phrases.txt 
+  221  cat >> phrases.txt 
+  222  cat phrases.txt 
+  223  wc phrases.txt 
+  224  wc -w pha
+  225  wc -w phrases.txt 
+  226  wc -l phrases.txt 
+  227  wc -c phrases.txt 
+  228  cat >> phrases.txt 
+  229  touch empty.tbt
+  230  ls
+  231  touch empty.pdf
+  232  ls
+  233  ls *.txt
+  234  ls *.txt *.tbt
+  235  man ls
+  236  cd /
+  237  cat
+  238  cd /
+  239  cd home
+  240  cd luan
+  241  de Documentos
+  242  ls
+  243  cd Documentos
+  244  cd Aulas
+  245  ls
+  246  cd Trybe_exercicios/
+  247  ls
+  248  cd fundamentos/
+  249  ls
+  250  cat fundamentos.txt 
+  251  ls fundamentos.txt 
+  252  cd Manipulacao_Busca/
+  253  ls
+  254  cd unix_testes_search/
+  255  ls
+  256  cat phrases.txt 
+  257  cat > cores.txt
+  258  ls
+  259  cat cores.txt 
+  260  cat >> cores.txt 
+  261  cat cores.txt 
+  262  cat > frutas.txt
+  263  cat cores.txt frutas.txt > corEfruta.txt
+  264  ls
+  265  cat corEfruta.txt 
+  266  clear
+  267  sort < cores.txt 
+  268  cat cores.txt 
+  269  sort < cores.txt > coresOrdenadas.txt
+  270  ls
+  271  cat coresOrdenadas.txt 
+  272  who
+  273  who | sort 
+  274  who | wc -l
+  275  clear
+  276  ls
+  277  ls -l
+  278  cd ..
+  279  ls -l
+  280  ls
+  281  cd unix_testes_search/
+  282  cat > arquivo.txt
+  283  ls -l
+  284  chmod
+  285  cat > chmod.txt
+  286  chmod u-rw
+  287  chmod u-rw chmod.txt 
+  288  ls -l
+  289  cat chmod.txt 
+  290  cat> chmod.txt 
+  291  chmod u+rw chmod.txt 
+  292  ls -l
+  293  clear
+  294  ps
+  295  history
+  296  ls
+  297  cat > hisoricoDia1e2.txt
+  298  ls
+  299  sleep 3
+  300  sleep 10 &
+  301  ps
+  302  sleep 100
+  303  bg
+  304  ps
+  305  sleep 100
+  306  ps
+  307  jobs
+  308  bg
+  309  ps
+  310  claer
+  311  ps
+  312  sleep 100
+  313  ps
+  314  kill %14467
+  315  ps
+  316  kill %2
+  317  ps
+  318  top
+  319  clear
+  320  echo 'Hello World'
+  321  top
+  322  ls
+  323  cd Documentos
+  324  ls
+  325  Documentos Aulas
+  326  cd Aulas
+  327  ls
+  328  cf Trybe_exercicios/
+  329  cd Trybe_exercicios/
+  330  ls
+  331  cd fundamentos/
+  332  ls
+  333  cd Manipulacao_Busca/
+  334  ls
+  335  cd unix_testes_search/
+  336  ls
+  337  cat hiso
+  338  cat hisoricoDia1e2.txt 
+  339  man <
+  340  man miner
+  341  man minor
+  342  ls -la
+  343  who]
+  344  who
+  345  ps
+  346  ll
+  347  find -name "*.txt"
+  348  find . -type d
+  349  find . -name"*.txt"
+  350  find . -name "*.txt"
+  351  find ./teste -type d -name "cor*"
+  352  find .;teste -type f -name "cor*"
+  353  find ./teste -type f -name "cor*"
+  354  find ./teste -type f -name "empty*"
+  355  find -type f -name "empty*"
+  356  find -type f -name "cor*"
+  357  find -type d -name "cor*"
+  358  ls
+  359  cat >> comandos-ctrl.txt
+  360  clear
+  361  cd ..
+  362  mkdir unix_tests_skills
+  363  ls
+  364  cd unix_tests_skills/
+  365  cat >> skills2.txt
+  366  cat >> skills2.txt 
+  367  cat < skills2.txt 
+  368  sort < skills2.txt 
+  369  cat -l skills2.txt 
+  370  wc -l skills2.txt 
+  371  sort < skills2.txt | head -n 3 top_skills.txt
+  372  sort < skills2.txt | head -n 3 > top_skills.txt
+  373  ls
+  374  cat top_skills.txt 
+  375  cat >> phrases2.txt
+  376  grep br phrases2.txt 
+  377  grep br phrases2.txt | wc -l
+  378  grep -v br phrases2.txt 
+  379  grep -v br phrases2.txt | wc -l
+  380  cat >> phrases2.txt 
+  381  cat phrases2.txt 
+  382  ls
+  383  cd ..
+  384  ls
+  385  cd unix_testes_search/
+  386  ls
+  387  cp countries.txt 
+  388  man cp
+  389  cs ..
+  390  cd ..
+  391  ls
+  392  cd unix_tests_skills/
+  393  ls
+  394  cat phrases2.txt countries.txt > bunch_of_things.txt
+  395  cat bunch_of_things.txt 
+  396  sort > bunch_of_things.txt 
+  397  ls
+  398  cat bunch_of_things.txt 
+  399  rmv bunch_of_things.txt 
+  400  rm bunch_of_things.txt 
+  401  ls
+  402  cat countries.txt phrases2.txt > bunch_of_things.txt
+  403  cat bunch_of_things.txt 
+  404  sort bunch_of_things.txt 
+  405  history 

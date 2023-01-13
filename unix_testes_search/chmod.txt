@@ -1,0 +1,4 @@
+u - para todos os usuarios
+g - grupo de usuarios
+o - outros usuarios
+a - todos os usuarios

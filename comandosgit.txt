@@ -1,0 +1,25 @@
+git add . ou git add nome-do-arquivo nome-do-outro-arquivo: adiciona as modificações em staging, que informa ao git as modificações realizadas e que vão estar no próximo commit;
+
+git commit -m "Mensagem sobre as alterações realizadas": informa quais alterações foram realizadas e cria uma versão do projeto que pode ser acessada a qualquer momento;
+
+git status: é utilizado sempre que você quiser verificar o que foi alterado.
+         --   RELEMBRANDO   --
+
+Uma pasta é criada para armazenar um repositório local: mkdir <nome da pasta>;
+A pasta criada é acessada: cd <nome da pasta criada>;
+Um repositório local é iniciado nessa pasta, e é possível ter o controle de versionamento: git init;
+É realizada uma modificação inicial, por exemplo: touch README.md;
+Verificamos quais arquivos foram alterados: git status;
+Adicionamos os arquivos modificados e selecionados ao que será a próxima versão: git add (git add README.md ou git add .);
+Uma nova versão desse repositório local é criada com uma descrição do que essa versão muda em relação a antiga: git commit -m "Mensagem desejada";
+
+git checkout nome da branch
+git merge nome do arquivo a ser inserido na main - lembrar de ir a main antes
+git branch - -b cria; -d remove
+git status - mostra em que ramo está (mais, branch x ou y)
+git commit - cria um check point no trabalho sendo executado, prática legal é escrever o que foi criado/modificado
+git commit -m "comentário a ser inserido"
+git init transforma uma pasta em um repositório git
+git add nome-do-arquivo - adiciona o arquivo no staging (estágio de trabalho antes do commit)
+git add . - adiciona todos os arquivos
+git log - mostra o registros dos commits
