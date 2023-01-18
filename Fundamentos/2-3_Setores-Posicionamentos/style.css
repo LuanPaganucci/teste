@@ -18,6 +18,8 @@ h1 {
 h2 {
     color: green;
     font-size: 2em;
+    padding: 0px 300px 0px 50px;
+    margin-bottom: 1%;
 } 
 
 body {
@@ -28,6 +30,7 @@ body {
 #header {
     background-image: url(/2-3_Setores-Posicionamentos/imagens/Convite-formatura.jpg);
     background-size: cover;
+    background-position: 0% 50% 50% 0;
 }
 
 p {
