@@ -1,0 +1,37 @@
+h1 {
+    font-size: 65px;
+    color: orange;
+    font-family: sans-serif;
+}
+h2 {
+    color: green;
+    font-size: 2em;
+} 
+
+body {
+    background-color: rgb(214, 214, 214);
+    font-size: 16px;
+}
+
+p {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 600;
+    font-size: 3em;
+}
+
+#ContHTML {
+    background-color: red;
+}
+
+#Titulo-ContHTML {
+   color: orange; 
+}
+
+.list-style {
+    background-color: green;
+    color: white;
+    font-weight: bold;
+    font-style: italic;
+    line-height: 20px;
+    text-align: center;
+}
