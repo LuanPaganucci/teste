@@ -1,8 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.topsite {
+    background-color: white;
+    text-align: center;
+    padding-bottom: 1%;
+}
+
 h1 {
     font-size: 65px;
     color: orange;
     font-family: sans-serif;
 }
+
 h2 {
     color: green;
     font-size: 2em;
@@ -11,6 +23,11 @@ h2 {
 body {
     background-color: rgb(214, 214, 214);
     font-size: 16px;
+}
+
+#header {
+    background-image: url(/2-3_Setores-Posicionamentos/imagens/Convite-formatura.jpg);
+    background-size: cover;
 }
 
 p {
