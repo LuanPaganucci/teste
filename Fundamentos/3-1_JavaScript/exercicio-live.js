@@ -21,6 +21,6 @@ if(num1 === num2) {
 else {
     console.log(resultado = num1 * num2)
 }
-console.log(resultado);
+
 
 
