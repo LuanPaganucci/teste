@@ -5,5 +5,6 @@ tasksList.unshift("Acordar"); //adiciona ao inicio
 tasksList.pop(); //remove a ultima tarefa
 tasksList.shift(); //remove a primeira tarefa
 let indexOfTasks = tasksList.indexOf("Reunião"); //
+console.log(tasksList.length); // mostrar tamanho do array, qtd total de elementos
 console.log(indexOfTasks);
 console.log(tasksList);
