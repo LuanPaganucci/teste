@@ -62,4 +62,4 @@ const verifyAges = (array, minimunAge) => people.every((menor) => menor.age >= m
   console.log(verifyAges(people, 14));
 
   // fonte:
-  https://app.betrybe.com/learn/course/5e938f69-6e32-43b3-9685-c936530fd326/module/fc998c60-386e-46bc-83ca-4269beb17e17/section/ccfff26d-24c9-422e-b886-6ee19f20db14/day/1a8e874c-0ece-4302-88fb-455c93880bb7/lesson/1570225b-8e84-4856-ac05-2a7f15510a21
+  //https://app.betrybe.com/learn/course/5e938f69-6e32-43b3-9685-c936530fd326/module/fc998c60-386e-46bc-83ca-4269beb17e17/section/ccfff26d-24c9-422e-b886-6ee19f20db14/day/1a8e874c-0ece-4302-88fb-455c93880bb7/lesson/1570225b-8e84-4856-ac05-2a7f15510a21
